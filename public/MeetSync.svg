@@ -1,0 +1,33 @@
+<svg width="780" height="160" viewBox="0 0 780 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@700&amp;display=swap');
+      .meet-text {
+        font-family: 'Outfit', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        font-weight: 700;
+        font-size: 92px;
+        letter-spacing: -0.03em;
+        fill: #F3F5F0;
+      }
+      .sync-text {
+        font-family: 'Outfit', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        font-weight: 700;
+        font-size: 92px;
+        letter-spacing: -0.03em;
+        fill: #00C896;
+      }
+      @media (prefers-color-scheme: light) {
+        .meet-text {
+          fill: #0F172A;
+        }
+      }
+    </style>
+  </defs>
+  <!-- MeetSync Icon Mark -->
+  <g transform="translate(20, 13)">
+    <path d="M 0 0 L 44 0 L 72 34 L 57 67 L 76 99 L 44 134 L 0 134 L 27 67 Z" fill="#00C896" />
+    <path d="M 116 11 L 159 11 L 131 67 L 159 123 L 118 123 L 84 93 L 103 67 L 89 40 Z" fill="#00C896" />
+  </g>
+  <!-- MeetSync Wordmark -->
+  <text x="215" y="108" class="meet-text">Meet<tspan class="sync-text">Sync</tspan></text>
+</svg>
